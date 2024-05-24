@@ -5,7 +5,7 @@ import os
 
 ### Change this
 process_path = '/root/rtm_lastest/raptoreumd'  # Path to RTM CORE raptoreumd
-check_interval = 60  # Interval, how often to check whether raptoreumd is running (in seconds)
+check_interval = 900  # Interval, how often to check whether raptoreumd is running (in seconds)
 ### Change this End
 
 process_name = 'raptoreumd'
